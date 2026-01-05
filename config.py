@@ -1,2 +1,2 @@
-print("Hello config")
-print("Version 3")
+change.py
+Version 4
