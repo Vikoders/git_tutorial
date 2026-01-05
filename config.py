@@ -1,2 +1,2 @@
 print("Hello config")
-print("V")
+print("Version_1_updated")
